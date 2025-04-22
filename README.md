@@ -12,7 +12,6 @@ Este projeto simula um sistema de e-commerce distribuído usando Apache Kafka co
 ecommerce-kafka/
 ├── cli_producer.py
 ├── requirements.txt
-├── requirements.txt
 ├── assets/
 │   └── fluxo_ecommerce-kafka.png
 ├── producers/
