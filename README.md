@@ -4,7 +4,7 @@ Este projeto simula um sistema de e-commerce distribuído usando Apache Kafka co
 
 ## 📸 Visão Geral do Fluxo
 
-![Fluxo de Kafka](assets\fluxo_ecommerce-kafka.png)
+![Fluxo de Kafka](./assets/fluxo_ecommerce-kafka.png)
 
 ## 📂 Estrutura do Projeto
 
